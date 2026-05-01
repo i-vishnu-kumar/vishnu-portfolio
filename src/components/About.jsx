@@ -27,7 +27,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      Software Engineer | AI & Full-Stack Enthusiast with 2.5+ years of experience 
+      Software Engineer | AI & Full-Stack Enthusiast with 3 years of experience 
       building intelligent and scalable applications. I love ideating, learning fast, 
       and bringing fresh perspectives to the table. When I'm not coding, 
       you'll find me cracking jokes on stage! 🎤😄
